@@ -1,0 +1,1163 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1919B2342B171CE400025FF9 /* ironman3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E22B171CE400025FF9 /* ironman3.jpg */; };
+		1919B2352B171CE400025FF9 /* thenun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E32B171CE400025FF9 /* thenun.jpg */; };
+		1919B2362B171CE400025FF9 /* antman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E42B171CE400025FF9 /* antman.jpg */; };
+		1919B2372B171CE400025FF9 /* ageofultron.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E52B171CE400025FF9 /* ageofultron.jpeg */; };
+		1919B2382B171CE400025FF9 /* blackpanther.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E62B171CE400025FF9 /* blackpanther.jpg */; };
+		1919B2392B171CE400025FF9 /* oppenheimer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E72B171CE400025FF9 /* oppenheimer.jpg */; };
+		1919B23A2B171CE400025FF9 /* mebeforeyou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E82B171CE400025FF9 /* mebeforeyou.jpg */; };
+		1919B23B2B171CE400025FF9 /* moonlight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1E92B171CE400025FF9 /* moonlight.jpg */; };
+		1919B23C2B171CE400025FF9 /* topgunmaverick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1EA2B171CE400025FF9 /* topgunmaverick.jpg */; };
+		1919B23D2B171CE400025FF9 /* themeg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1EB2B171CE400025FF9 /* themeg.jpg */; };
+		1919B23E2B171CE400025FF9 /* tenthingsihateaboutyou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1EC2B171CE400025FF9 /* tenthingsihateaboutyou.jpg */; };
+		1919B23F2B171CE400025FF9 /* farfromhome.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1ED2B171CE400025FF9 /* farfromhome.jpeg */; };
+		1919B2402B171CE400025FF9 /* captainmarvel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1EE2B171CE400025FF9 /* captainmarvel.jpg */; };
+		1919B2412B171CE400025FF9 /* jaws4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1EF2B171CE400025FF9 /* jaws4.jpeg */; };
+		1919B2422B171CE400025FF9 /* infinitywar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F02B171CE400025FF9 /* infinitywar.jpg */; };
+		1919B2432B171CE400025FF9 /* worldwarz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F12B171CE400025FF9 /* worldwarz.jpg */; };
+		1919B2442B171CE400025FF9 /* barbie.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F22B171CE400025FF9 /* barbie.jpeg */; };
+		1919B2452B171CE400025FF9 /* harrypotter1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F32B171CE400025FF9 /* harrypotter1.jpeg */; };
+		1919B2462B171CE400025FF9 /* titanic.png in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F42B171CE400025FF9 /* titanic.png */; };
+		1919B2472B171CE400025FF9 /* jurassicpark3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F52B171CE400025FF9 /* jurassicpark3.jpeg */; };
+		1919B2482B171CE400025FF9 /* greenbook.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F62B171CE400025FF9 /* greenbook.jpeg */; };
+		1919B2492B171CE400025FF9 /* avengers1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F72B171CE400025FF9 /* avengers1.jpg */; };
+		1919B24A2B171CE400025FF9 /* ironman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F82B171CE400025FF9 /* ironman.jpg */; };
+		1919B24B2B171CE400025FF9 /* captain.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1F92B171CE400025FF9 /* captain.jpeg */; };
+		1919B24C2B171CE400025FF9 /* harrypotter6.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FA2B171CE400025FF9 /* harrypotter6.jpeg */; };
+		1919B24D2B171CE400025FF9 /* theconjuring2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FB2B171CE400025FF9 /* theconjuring2.jpeg */; };
+		1919B24E2B171CE400025FF9 /* jaws3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FC2B171CE400025FF9 /* jaws3.jpeg */; };
+		1919B24F2B171CE400025FF9 /* jurassicworld1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FD2B171CE400025FF9 /* jurassicworld1.jpeg */; };
+		1919B2502B171CE400025FF9 /* thenun2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FE2B171CE400025FF9 /* thenun2.jpg */; };
+		1919B2512B171CE400025FF9 /* jaws2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B1FF2B171CE400025FF9 /* jaws2.jpeg */; };
+		1919B2522B171CE400025FF9 /* homecoming.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2002B171CE400025FF9 /* homecoming.jpg */; };
+		1919B2532B171CE400025FF9 /* nowayhome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2012B171CE400025FF9 /* nowayhome.jpg */; };
+		1919B2542B171CE400025FF9 /* theconjuring1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2022B171CE400025FF9 /* theconjuring1.jpg */; };
+		1919B2552B171CE400025FF9 /* theconjuring3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2032B171CE400025FF9 /* theconjuring3.jpeg */; };
+		1919B2562B171CE400025FF9 /* harrypotter7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2042B171CE400025FF9 /* harrypotter7.jpeg */; };
+		1919B2572B171CE400025FF9 /* theprincessdiaries.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2052B171CE400025FF9 /* theprincessdiaries.jpeg */; };
+		1919B2582B171CE400025FF9 /* jurassicpark2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2062B171CE400025FF9 /* jurassicpark2.jpeg */; };
+		1919B2592B171CE400025FF9 /* flipped.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2072B171CE400025FF9 /* flipped.jpg */; };
+		1919B25A2B171CE400025FF9 /* thepurge.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2082B171CE400025FF9 /* thepurge.jpeg */; };
+		1919B25B2B171CE400025FF9 /* abouttime.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2092B171CE400025FF9 /* abouttime.jpg */; };
+		1919B25C2B171CE400025FF9 /* jurassicpark1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20A2B171CE400025FF9 /* jurassicpark1.jpeg */; };
+		1919B25D2B171CE400025FF9 /* meangirls.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20B2B171CE400025FF9 /* meangirls.jpg */; };
+		1919B25E2B171CE400025FF9 /* nottinghill.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20C2B171CE400025FF9 /* nottinghill.jpg */; };
+		1919B25F2B171CE400025FF9 /* jurassicworld3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20D2B171CE400025FF9 /* jurassicworld3.jpeg */; };
+		1919B2602B171CE400025FF9 /* beautyandthebeast.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20E2B171CE400025FF9 /* beautyandthebeast.jpg */; };
+		1919B2612B171CE400025FF9 /* jaws1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B20F2B171CE400025FF9 /* jaws1.jpeg */; };
+		1919B2622B171CE400025FF9 /* twilight3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2102B171CE400025FF9 /* twilight3.jpeg */; };
+		1919B2632B171CE400025FF9 /* harrypotter7part2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2112B171CE400025FF9 /* harrypotter7part2.jpeg */; };
+		1919B2642B171CE400025FF9 /* captain2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2122B171CE400025FF9 /* captain2.jpeg */; };
+		1919B2652B171CE400025FF9 /* astarisborn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2132B171CE400025FF9 /* astarisborn.jpg */; };
+		1919B2662B171CE400025FF9 /* harrypotter4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2142B171CE400025FF9 /* harrypotter4.jpeg */; };
+		1919B2672B171CE400025FF9 /* pastlives.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2152B171CE400025FF9 /* pastlives.jpg */; };
+		1919B2682B171CE400025FF9 /* harrypotter5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2162B171CE400025FF9 /* harrypotter5.jpeg */; };
+		1919B2692B171CE400025FF9 /* topgun.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2172B171CE400025FF9 /* topgun.jpeg */; };
+		1919B26A2B171CE400025FF9 /* twilight2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2182B171CE400025FF9 /* twilight2.jpeg */; };
+		1919B26B2B171CE400025FF9 /* thordarkworld.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2192B171CE400025FF9 /* thordarkworld.jpg */; };
+		1919B26C2B171CE400025FF9 /* civilwar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21A2B171CE400025FF9 /* civilwar.jpg */; };
+		1919B26D2B171CE400025FF9 /* jurassicworld2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21B2B171CE400025FF9 /* jurassicworld2.jpeg */; };
+		1919B26E2B171CE400025FF9 /* ragnarok.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21C2B171CE400025FF9 /* ragnarok.jpg */; };
+		1919B26F2B171CE400025FF9 /* theshapeofwater.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21D2B171CE400025FF9 /* theshapeofwater.jpg */; };
+		1919B2702B171CE400025FF9 /* thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21E2B171CE400025FF9 /* thor.jpg */; };
+		1919B2712B171CE400025FF9 /* doctorstrange.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B21F2B171CE400025FF9 /* doctorstrange.jpg */; };
+		1919B2722B171CE400025FF9 /* parasite.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2202B171CE400025FF9 /* parasite.jpeg */; };
+		1919B2732B171CE400025FF9 /* twilight5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2212B171CE400025FF9 /* twilight5.jpeg */; };
+		1919B2742B171CE400025FF9 /* harrypotter2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2222B171CE400025FF9 /* harrypotter2.jpeg */; };
+		1919B2752B171CE400025FF9 /* guardians1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2232B171CE400025FF9 /* guardians1.jpg */; };
+		1919B2762B171CE400025FF9 /* endgame.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2242B171CE400025FF9 /* endgame.jpeg */; };
+		1919B2772B171CE400025FF9 /* jurassic.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2252B171CE400025FF9 /* jurassic.jpeg */; };
+		1919B2782B171CE400025FF9 /* antman2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2262B171CE400025FF9 /* antman2.jpg */; };
+		1919B2792B171CE400025FF9 /* guardians2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2272B171CE400025FF9 /* guardians2.jpg */; };
+		1919B27A2B171CE400025FF9 /* hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2282B171CE400025FF9 /* hulk.jpg */; };
+		1919B27B2B171CE400025FF9 /* thematrix.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2292B171CE400025FF9 /* thematrix.jpg */; };
+		1919B27C2B171CE400025FF9 /* callmebyyourname.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22A2B171CE400025FF9 /* callmebyyourname.jpg */; };
+		1919B27D2B171CE400025FF9 /* twilight1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22B2B171CE400025FF9 /* twilight1.jpg */; };
+		1919B27E2B171CE400025FF9 /* castaway.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22C2B171CE400025FF9 /* castaway.jpg */; };
+		1919B27F2B171CE400025FF9 /* themeg2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22D2B171CE400025FF9 /* themeg2.jpg */; };
+		1919B2802B171CE400025FF9 /* forrestgump.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22E2B171CE400025FF9 /* forrestgump.jpg */; };
+		1919B2812B171CE400025FF9 /* harrypotter3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B22F2B171CE400025FF9 /* harrypotter3.jpeg */; };
+		1919B2822B171CE400025FF9 /* twilight4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2302B171CE400025FF9 /* twilight4.jpeg */; };
+		1919B2832B171CE400025FF9 /* ironman2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2312B171CE400025FF9 /* ironman2.jpeg */; };
+		1919B2842B171CE400025FF9 /* avatar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1919B2322B171CE400025FF9 /* avatar.jpeg */; };
+		1919B2912B199BAC00025FF9 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1919B2902B199BAC00025FF9 /* Movie.swift */; };
+		195262512AF41873000F7DE1 /* testApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 195262502AF41872000F7DE1 /* testApp.swift */; };
+		19C746F62AF27D6B0076E85C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C746F52AF27D6B0076E85C /* AppDelegate.swift */; };
+		19C746F82AF27D6B0076E85C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C746F72AF27D6B0076E85C /* SceneDelegate.swift */; };
+		19C746FA2AF27D6B0076E85C /* MovieDiaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C746F92AF27D6B0076E85C /* MovieDiaryViewController.swift */; };
+		19C746FD2AF27D6B0076E85C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19C746FB2AF27D6B0076E85C /* Main.storyboard */; };
+		19C746FF2AF27D6C0076E85C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19C746FE2AF27D6C0076E85C /* Assets.xcassets */; };
+		19C747022AF27D6C0076E85C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19C747002AF27D6C0076E85C /* LaunchScreen.storyboard */; };
+		19C7470D2AF27D6C0076E85C /* MovieDiaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C7470C2AF27D6C0076E85C /* MovieDiaryTests.swift */; };
+		19C747172AF27D6C0076E85C /* MovieDiaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C747162AF27D6C0076E85C /* MovieDiaryUITests.swift */; };
+		19C747192AF27D6C0076E85C /* MovieDiaryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C747182AF27D6C0076E85C /* MovieDiaryUITestsLaunchTests.swift */; };
+		19C747262AF283590076E85C /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C747252AF283590076E85C /* Home.swift */; };
+		19C747282AF2837C0076E85C /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19C747272AF2837C0076E85C /* Calendar.swift */; };
+		19CF6F942B1216050062925C /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CF6F932B1216050062925C /* MovieCollectionViewCell.swift */; };
+		19CF6F962B1216390062925C /* MovieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19CF6F952B1216390062925C /* MovieViewController.swift */; };
+		19EF34F32B16793D003E88AC /* RatingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19EF34F22B16793D003E88AC /* RatingViewController.swift */; };
+		19FAFB9C2B1A11290086D9AA /* Diary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FAFB9B2B1A11290086D9AA /* Diary.swift */; };
+		19FAFBA02B1BB94E0086D9AA /* DiaryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FAFB9F2B1BB94E0086D9AA /* DiaryTableViewCell.swift */; };
+		7333EFFF2B1CBC7F00A2815F /* DatabaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7333EFFE2B1CBC7F00A2815F /* DatabaseManager.swift */; };
+		7333F0022B1CBCEA00A2815F /* MovieDiary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7333F0012B1CBCEA00A2815F /* MovieDiary.swift */; };
+		7333F00C2B1CCF6D00A2815F /* moviedatabse.db in Resources */ = {isa = PBXBuildFile; fileRef = 7333F00B2B1CCF6D00A2815F /* moviedatabse.db */; };
+		7363695C2B1CD03000A783C7 /* DiaryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7333F0052B1CC00E00A2815F /* DiaryTableViewCell.xib */; };
+		771F054BCB03590E00FC578F /* Pods_MovieDiary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2406911498C639FE5528989 /* Pods_MovieDiary.framework */; };
+		EAD4A3231E84994974E383D9 /* Pods_MovieDiaryTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 300302BF65ABBE3867C7DB55 /* Pods_MovieDiaryTests.framework */; };
+		F551C3BA203F47EDF2EC2569 /* Pods_MovieDiary_MovieDiaryUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D816D1B4E4AD5C20F26011 /* Pods_MovieDiary_MovieDiaryUITests.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		19C747092AF27D6C0076E85C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 19C746EA2AF27D6B0076E85C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 19C746F12AF27D6B0076E85C;
+			remoteInfo = MovieDiary;
+		};
+		19C747132AF27D6C0076E85C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 19C746EA2AF27D6B0076E85C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 19C746F12AF27D6B0076E85C;
+			remoteInfo = MovieDiary;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1919B1E22B171CE400025FF9 /* ironman3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ironman3.jpg; sourceTree = "<group>"; };
+		1919B1E32B171CE400025FF9 /* thenun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thenun.jpg; sourceTree = "<group>"; };
+		1919B1E42B171CE400025FF9 /* antman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = antman.jpg; sourceTree = "<group>"; };
+		1919B1E52B171CE400025FF9 /* ageofultron.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ageofultron.jpeg; sourceTree = "<group>"; };
+		1919B1E62B171CE400025FF9 /* blackpanther.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blackpanther.jpg; sourceTree = "<group>"; };
+		1919B1E72B171CE400025FF9 /* oppenheimer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oppenheimer.jpg; sourceTree = "<group>"; };
+		1919B1E82B171CE400025FF9 /* mebeforeyou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mebeforeyou.jpg; sourceTree = "<group>"; };
+		1919B1E92B171CE400025FF9 /* moonlight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moonlight.jpg; sourceTree = "<group>"; };
+		1919B1EA2B171CE400025FF9 /* topgunmaverick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = topgunmaverick.jpg; sourceTree = "<group>"; };
+		1919B1EB2B171CE400025FF9 /* themeg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = themeg.jpg; sourceTree = "<group>"; };
+		1919B1EC2B171CE400025FF9 /* tenthingsihateaboutyou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tenthingsihateaboutyou.jpg; sourceTree = "<group>"; };
+		1919B1ED2B171CE400025FF9 /* farfromhome.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = farfromhome.jpeg; sourceTree = "<group>"; };
+		1919B1EE2B171CE400025FF9 /* captainmarvel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = captainmarvel.jpg; sourceTree = "<group>"; };
+		1919B1EF2B171CE400025FF9 /* jaws4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jaws4.jpeg; sourceTree = "<group>"; };
+		1919B1F02B171CE400025FF9 /* infinitywar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = infinitywar.jpg; sourceTree = "<group>"; };
+		1919B1F12B171CE400025FF9 /* worldwarz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldwarz.jpg; sourceTree = "<group>"; };
+		1919B1F22B171CE400025FF9 /* barbie.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = barbie.jpeg; sourceTree = "<group>"; };
+		1919B1F32B171CE400025FF9 /* harrypotter1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter1.jpeg; sourceTree = "<group>"; };
+		1919B1F42B171CE400025FF9 /* titanic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = titanic.png; sourceTree = "<group>"; };
+		1919B1F52B171CE400025FF9 /* jurassicpark3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicpark3.jpeg; sourceTree = "<group>"; };
+		1919B1F62B171CE400025FF9 /* greenbook.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = greenbook.jpeg; sourceTree = "<group>"; };
+		1919B1F72B171CE400025FF9 /* avengers1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = avengers1.jpg; sourceTree = "<group>"; };
+		1919B1F82B171CE400025FF9 /* ironman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ironman.jpg; sourceTree = "<group>"; };
+		1919B1F92B171CE400025FF9 /* captain.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = captain.jpeg; sourceTree = "<group>"; };
+		1919B1FA2B171CE400025FF9 /* harrypotter6.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter6.jpeg; sourceTree = "<group>"; };
+		1919B1FB2B171CE400025FF9 /* theconjuring2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theconjuring2.jpeg; sourceTree = "<group>"; };
+		1919B1FC2B171CE400025FF9 /* jaws3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jaws3.jpeg; sourceTree = "<group>"; };
+		1919B1FD2B171CE400025FF9 /* jurassicworld1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicworld1.jpeg; sourceTree = "<group>"; };
+		1919B1FE2B171CE400025FF9 /* thenun2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thenun2.jpg; sourceTree = "<group>"; };
+		1919B1FF2B171CE400025FF9 /* jaws2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jaws2.jpeg; sourceTree = "<group>"; };
+		1919B2002B171CE400025FF9 /* homecoming.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = homecoming.jpg; sourceTree = "<group>"; };
+		1919B2012B171CE400025FF9 /* nowayhome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nowayhome.jpg; sourceTree = "<group>"; };
+		1919B2022B171CE400025FF9 /* theconjuring1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theconjuring1.jpg; sourceTree = "<group>"; };
+		1919B2032B171CE400025FF9 /* theconjuring3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theconjuring3.jpeg; sourceTree = "<group>"; };
+		1919B2042B171CE400025FF9 /* harrypotter7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter7.jpeg; sourceTree = "<group>"; };
+		1919B2052B171CE400025FF9 /* theprincessdiaries.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theprincessdiaries.jpeg; sourceTree = "<group>"; };
+		1919B2062B171CE400025FF9 /* jurassicpark2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicpark2.jpeg; sourceTree = "<group>"; };
+		1919B2072B171CE400025FF9 /* flipped.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flipped.jpg; sourceTree = "<group>"; };
+		1919B2082B171CE400025FF9 /* thepurge.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thepurge.jpeg; sourceTree = "<group>"; };
+		1919B2092B171CE400025FF9 /* abouttime.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = abouttime.jpg; sourceTree = "<group>"; };
+		1919B20A2B171CE400025FF9 /* jurassicpark1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicpark1.jpeg; sourceTree = "<group>"; };
+		1919B20B2B171CE400025FF9 /* meangirls.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = meangirls.jpg; sourceTree = "<group>"; };
+		1919B20C2B171CE400025FF9 /* nottinghill.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nottinghill.jpg; sourceTree = "<group>"; };
+		1919B20D2B171CE400025FF9 /* jurassicworld3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicworld3.jpeg; sourceTree = "<group>"; };
+		1919B20E2B171CE400025FF9 /* beautyandthebeast.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beautyandthebeast.jpg; sourceTree = "<group>"; };
+		1919B20F2B171CE400025FF9 /* jaws1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jaws1.jpeg; sourceTree = "<group>"; };
+		1919B2102B171CE400025FF9 /* twilight3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twilight3.jpeg; sourceTree = "<group>"; };
+		1919B2112B171CE400025FF9 /* harrypotter7part2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter7part2.jpeg; sourceTree = "<group>"; };
+		1919B2122B171CE400025FF9 /* captain2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = captain2.jpeg; sourceTree = "<group>"; };
+		1919B2132B171CE400025FF9 /* astarisborn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = astarisborn.jpg; sourceTree = "<group>"; };
+		1919B2142B171CE400025FF9 /* harrypotter4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter4.jpeg; sourceTree = "<group>"; };
+		1919B2152B171CE400025FF9 /* pastlives.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pastlives.jpg; sourceTree = "<group>"; };
+		1919B2162B171CE400025FF9 /* harrypotter5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter5.jpeg; sourceTree = "<group>"; };
+		1919B2172B171CE400025FF9 /* topgun.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = topgun.jpeg; sourceTree = "<group>"; };
+		1919B2182B171CE400025FF9 /* twilight2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twilight2.jpeg; sourceTree = "<group>"; };
+		1919B2192B171CE400025FF9 /* thordarkworld.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thordarkworld.jpg; sourceTree = "<group>"; };
+		1919B21A2B171CE400025FF9 /* civilwar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = civilwar.jpg; sourceTree = "<group>"; };
+		1919B21B2B171CE400025FF9 /* jurassicworld2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassicworld2.jpeg; sourceTree = "<group>"; };
+		1919B21C2B171CE400025FF9 /* ragnarok.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ragnarok.jpg; sourceTree = "<group>"; };
+		1919B21D2B171CE400025FF9 /* theshapeofwater.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theshapeofwater.jpg; sourceTree = "<group>"; };
+		1919B21E2B171CE400025FF9 /* thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thor.jpg; sourceTree = "<group>"; };
+		1919B21F2B171CE400025FF9 /* doctorstrange.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doctorstrange.jpg; sourceTree = "<group>"; };
+		1919B2202B171CE400025FF9 /* parasite.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = parasite.jpeg; sourceTree = "<group>"; };
+		1919B2212B171CE400025FF9 /* twilight5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twilight5.jpeg; sourceTree = "<group>"; };
+		1919B2222B171CE400025FF9 /* harrypotter2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter2.jpeg; sourceTree = "<group>"; };
+		1919B2232B171CE400025FF9 /* guardians1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guardians1.jpg; sourceTree = "<group>"; };
+		1919B2242B171CE400025FF9 /* endgame.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = endgame.jpeg; sourceTree = "<group>"; };
+		1919B2252B171CE400025FF9 /* jurassic.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jurassic.jpeg; sourceTree = "<group>"; };
+		1919B2262B171CE400025FF9 /* antman2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = antman2.jpg; sourceTree = "<group>"; };
+		1919B2272B171CE400025FF9 /* guardians2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = guardians2.jpg; sourceTree = "<group>"; };
+		1919B2282B171CE400025FF9 /* hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hulk.jpg; sourceTree = "<group>"; };
+		1919B2292B171CE400025FF9 /* thematrix.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thematrix.jpg; sourceTree = "<group>"; };
+		1919B22A2B171CE400025FF9 /* callmebyyourname.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = callmebyyourname.jpg; sourceTree = "<group>"; };
+		1919B22B2B171CE400025FF9 /* twilight1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twilight1.jpg; sourceTree = "<group>"; };
+		1919B22C2B171CE400025FF9 /* castaway.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = castaway.jpg; sourceTree = "<group>"; };
+		1919B22D2B171CE400025FF9 /* themeg2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = themeg2.jpg; sourceTree = "<group>"; };
+		1919B22E2B171CE400025FF9 /* forrestgump.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = forrestgump.jpg; sourceTree = "<group>"; };
+		1919B22F2B171CE400025FF9 /* harrypotter3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = harrypotter3.jpeg; sourceTree = "<group>"; };
+		1919B2302B171CE400025FF9 /* twilight4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twilight4.jpeg; sourceTree = "<group>"; };
+		1919B2312B171CE400025FF9 /* ironman2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ironman2.jpeg; sourceTree = "<group>"; };
+		1919B2322B171CE400025FF9 /* avatar.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = avatar.jpeg; sourceTree = "<group>"; };
+		1919B2902B199BAC00025FF9 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
+		195262502AF41872000F7DE1 /* testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testApp.swift; sourceTree = "<group>"; };
+		19C746F22AF27D6B0076E85C /* MovieDiary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieDiary.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		19C746F52AF27D6B0076E85C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		19C746F72AF27D6B0076E85C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		19C746F92AF27D6B0076E85C /* MovieDiaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDiaryViewController.swift; sourceTree = "<group>"; };
+		19C746FC2AF27D6B0076E85C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		19C746FE2AF27D6C0076E85C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		19C747012AF27D6C0076E85C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		19C747032AF27D6C0076E85C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		19C747082AF27D6C0076E85C /* MovieDiaryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieDiaryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		19C7470C2AF27D6C0076E85C /* MovieDiaryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDiaryTests.swift; sourceTree = "<group>"; };
+		19C747122AF27D6C0076E85C /* MovieDiaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MovieDiaryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		19C747162AF27D6C0076E85C /* MovieDiaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDiaryUITests.swift; sourceTree = "<group>"; };
+		19C747182AF27D6C0076E85C /* MovieDiaryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDiaryUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		19C747252AF283590076E85C /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		19C747272AF2837C0076E85C /* Calendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
+		19CF6F932B1216050062925C /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
+		19CF6F952B1216390062925C /* MovieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieViewController.swift; sourceTree = "<group>"; };
+		19EF34F22B16793D003E88AC /* RatingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingViewController.swift; sourceTree = "<group>"; };
+		19FAFB9B2B1A11290086D9AA /* Diary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary.swift; sourceTree = "<group>"; };
+		19FAFB9F2B1BB94E0086D9AA /* DiaryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryTableViewCell.swift; sourceTree = "<group>"; };
+		300302BF65ABBE3867C7DB55 /* Pods_MovieDiaryTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieDiaryTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		437C6FAE6D1EA61F0CB56903 /* Pods-MovieDiaryTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiaryTests.debug.xcconfig"; path = "Target Support Files/Pods-MovieDiaryTests/Pods-MovieDiaryTests.debug.xcconfig"; sourceTree = "<group>"; };
+		64F6860B4835A4DB38DCEC48 /* Pods-MovieDiary.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiary.debug.xcconfig"; path = "Target Support Files/Pods-MovieDiary/Pods-MovieDiary.debug.xcconfig"; sourceTree = "<group>"; };
+		66D816D1B4E4AD5C20F26011 /* Pods_MovieDiary_MovieDiaryUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieDiary_MovieDiaryUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		67B1CF07AEBEDA3E022EC7E7 /* Pods-MovieDiaryTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiaryTests.release.xcconfig"; path = "Target Support Files/Pods-MovieDiaryTests/Pods-MovieDiaryTests.release.xcconfig"; sourceTree = "<group>"; };
+		7333EFFE2B1CBC7F00A2815F /* DatabaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseManager.swift; sourceTree = "<group>"; };
+		7333F0012B1CBCEA00A2815F /* MovieDiary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDiary.swift; sourceTree = "<group>"; };
+		7333F0052B1CC00E00A2815F /* DiaryTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DiaryTableViewCell.xib; sourceTree = "<group>"; };
+		7333F00B2B1CCF6D00A2815F /* moviedatabse.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = moviedatabse.db; sourceTree = "<group>"; };
+		8E922E42CD48207DCC66935F /* Pods-MovieDiary.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiary.release.xcconfig"; path = "Target Support Files/Pods-MovieDiary/Pods-MovieDiary.release.xcconfig"; sourceTree = "<group>"; };
+		B8511A3D34BCA4EC31652163 /* Pods-MovieDiary-MovieDiaryUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiary-MovieDiaryUITests.release.xcconfig"; path = "Target Support Files/Pods-MovieDiary-MovieDiaryUITests/Pods-MovieDiary-MovieDiaryUITests.release.xcconfig"; sourceTree = "<group>"; };
+		C2406911498C639FE5528989 /* Pods_MovieDiary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieDiary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3E06E885FF5050340C6E164 /* Pods-MovieDiary-MovieDiaryUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieDiary-MovieDiaryUITests.debug.xcconfig"; path = "Target Support Files/Pods-MovieDiary-MovieDiaryUITests/Pods-MovieDiary-MovieDiaryUITests.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		19C746EF2AF27D6B0076E85C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				771F054BCB03590E00FC578F /* Pods_MovieDiary.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C747052AF27D6C0076E85C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EAD4A3231E84994974E383D9 /* Pods_MovieDiaryTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C7470F2AF27D6C0076E85C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F551C3BA203F47EDF2EC2569 /* Pods_MovieDiary_MovieDiaryUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1919B1E12B171CE400025FF9 /* moviepic */ = {
+			isa = PBXGroup;
+			children = (
+				1919B1E22B171CE400025FF9 /* ironman3.jpg */,
+				1919B1E32B171CE400025FF9 /* thenun.jpg */,
+				1919B1E42B171CE400025FF9 /* antman.jpg */,
+				1919B1E52B171CE400025FF9 /* ageofultron.jpeg */,
+				1919B1E62B171CE400025FF9 /* blackpanther.jpg */,
+				1919B1E72B171CE400025FF9 /* oppenheimer.jpg */,
+				1919B1E82B171CE400025FF9 /* mebeforeyou.jpg */,
+				1919B1E92B171CE400025FF9 /* moonlight.jpg */,
+				1919B1EA2B171CE400025FF9 /* topgunmaverick.jpg */,
+				1919B1EB2B171CE400025FF9 /* themeg.jpg */,
+				1919B1EC2B171CE400025FF9 /* tenthingsihateaboutyou.jpg */,
+				1919B1ED2B171CE400025FF9 /* farfromhome.jpeg */,
+				1919B1EE2B171CE400025FF9 /* captainmarvel.jpg */,
+				1919B1EF2B171CE400025FF9 /* jaws4.jpeg */,
+				1919B1F02B171CE400025FF9 /* infinitywar.jpg */,
+				1919B1F12B171CE400025FF9 /* worldwarz.jpg */,
+				1919B1F22B171CE400025FF9 /* barbie.jpeg */,
+				1919B1F32B171CE400025FF9 /* harrypotter1.jpeg */,
+				1919B1F42B171CE400025FF9 /* titanic.png */,
+				1919B1F52B171CE400025FF9 /* jurassicpark3.jpeg */,
+				1919B1F62B171CE400025FF9 /* greenbook.jpeg */,
+				1919B1F72B171CE400025FF9 /* avengers1.jpg */,
+				1919B1F82B171CE400025FF9 /* ironman.jpg */,
+				1919B1F92B171CE400025FF9 /* captain.jpeg */,
+				1919B1FA2B171CE400025FF9 /* harrypotter6.jpeg */,
+				1919B1FB2B171CE400025FF9 /* theconjuring2.jpeg */,
+				1919B1FC2B171CE400025FF9 /* jaws3.jpeg */,
+				1919B1FD2B171CE400025FF9 /* jurassicworld1.jpeg */,
+				1919B1FE2B171CE400025FF9 /* thenun2.jpg */,
+				1919B1FF2B171CE400025FF9 /* jaws2.jpeg */,
+				1919B2002B171CE400025FF9 /* homecoming.jpg */,
+				1919B2012B171CE400025FF9 /* nowayhome.jpg */,
+				1919B2022B171CE400025FF9 /* theconjuring1.jpg */,
+				1919B2032B171CE400025FF9 /* theconjuring3.jpeg */,
+				1919B2042B171CE400025FF9 /* harrypotter7.jpeg */,
+				1919B2052B171CE400025FF9 /* theprincessdiaries.jpeg */,
+				1919B2062B171CE400025FF9 /* jurassicpark2.jpeg */,
+				1919B2072B171CE400025FF9 /* flipped.jpg */,
+				1919B2082B171CE400025FF9 /* thepurge.jpeg */,
+				1919B2092B171CE400025FF9 /* abouttime.jpg */,
+				1919B20A2B171CE400025FF9 /* jurassicpark1.jpeg */,
+				1919B20B2B171CE400025FF9 /* meangirls.jpg */,
+				1919B20C2B171CE400025FF9 /* nottinghill.jpg */,
+				1919B20D2B171CE400025FF9 /* jurassicworld3.jpeg */,
+				1919B20E2B171CE400025FF9 /* beautyandthebeast.jpg */,
+				1919B20F2B171CE400025FF9 /* jaws1.jpeg */,
+				1919B2102B171CE400025FF9 /* twilight3.jpeg */,
+				1919B2112B171CE400025FF9 /* harrypotter7part2.jpeg */,
+				1919B2122B171CE400025FF9 /* captain2.jpeg */,
+				1919B2132B171CE400025FF9 /* astarisborn.jpg */,
+				1919B2142B171CE400025FF9 /* harrypotter4.jpeg */,
+				1919B2152B171CE400025FF9 /* pastlives.jpg */,
+				1919B2162B171CE400025FF9 /* harrypotter5.jpeg */,
+				1919B2172B171CE400025FF9 /* topgun.jpeg */,
+				1919B2182B171CE400025FF9 /* twilight2.jpeg */,
+				1919B2192B171CE400025FF9 /* thordarkworld.jpg */,
+				1919B21A2B171CE400025FF9 /* civilwar.jpg */,
+				1919B21B2B171CE400025FF9 /* jurassicworld2.jpeg */,
+				1919B21C2B171CE400025FF9 /* ragnarok.jpg */,
+				1919B21D2B171CE400025FF9 /* theshapeofwater.jpg */,
+				1919B21E2B171CE400025FF9 /* thor.jpg */,
+				1919B21F2B171CE400025FF9 /* doctorstrange.jpg */,
+				1919B2202B171CE400025FF9 /* parasite.jpeg */,
+				1919B2212B171CE400025FF9 /* twilight5.jpeg */,
+				1919B2222B171CE400025FF9 /* harrypotter2.jpeg */,
+				1919B2232B171CE400025FF9 /* guardians1.jpg */,
+				1919B2242B171CE400025FF9 /* endgame.jpeg */,
+				1919B2252B171CE400025FF9 /* jurassic.jpeg */,
+				1919B2262B171CE400025FF9 /* antman2.jpg */,
+				1919B2272B171CE400025FF9 /* guardians2.jpg */,
+				1919B2282B171CE400025FF9 /* hulk.jpg */,
+				1919B2292B171CE400025FF9 /* thematrix.jpg */,
+				1919B22A2B171CE400025FF9 /* callmebyyourname.jpg */,
+				1919B22B2B171CE400025FF9 /* twilight1.jpg */,
+				1919B22C2B171CE400025FF9 /* castaway.jpg */,
+				1919B22D2B171CE400025FF9 /* themeg2.jpg */,
+				1919B22E2B171CE400025FF9 /* forrestgump.jpg */,
+				1919B22F2B171CE400025FF9 /* harrypotter3.jpeg */,
+				1919B2302B171CE400025FF9 /* twilight4.jpeg */,
+				1919B2312B171CE400025FF9 /* ironman2.jpeg */,
+				1919B2322B171CE400025FF9 /* avatar.jpeg */,
+			);
+			path = moviepic;
+			sourceTree = "<group>";
+		};
+		19C746E92AF27D6B0076E85C = {
+			isa = PBXGroup;
+			children = (
+				19C746F42AF27D6B0076E85C /* MovieDiary */,
+				19C7470B2AF27D6C0076E85C /* MovieDiaryTests */,
+				19C747152AF27D6C0076E85C /* MovieDiaryUITests */,
+				19C746F32AF27D6B0076E85C /* Products */,
+				82C83A409B0A471FEF3783C3 /* Pods */,
+				B06F971C4D35203BD8DDC6B2 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		19C746F32AF27D6B0076E85C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				19C746F22AF27D6B0076E85C /* MovieDiary.app */,
+				19C747082AF27D6C0076E85C /* MovieDiaryTests.xctest */,
+				19C747122AF27D6C0076E85C /* MovieDiaryUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		19C746F42AF27D6B0076E85C /* MovieDiary */ = {
+			isa = PBXGroup;
+			children = (
+				7333F00B2B1CCF6D00A2815F /* moviedatabse.db */,
+				7333F0032B1CBFB500A2815F /* Profile */,
+				7333F0002B1CBCE000A2815F /* Models */,
+				1919B1E12B171CE400025FF9 /* moviepic */,
+				19C746F52AF27D6B0076E85C /* AppDelegate.swift */,
+				19C746F72AF27D6B0076E85C /* SceneDelegate.swift */,
+				7333EFFE2B1CBC7F00A2815F /* DatabaseManager.swift */,
+				19C747252AF283590076E85C /* Home.swift */,
+				19EF34F22B16793D003E88AC /* RatingViewController.swift */,
+				195262502AF41872000F7DE1 /* testApp.swift */,
+				19C746FB2AF27D6B0076E85C /* Main.storyboard */,
+				19FAFB9B2B1A11290086D9AA /* Diary.swift */,
+				1919B2902B199BAC00025FF9 /* Movie.swift */,
+				19CF6F932B1216050062925C /* MovieCollectionViewCell.swift */,
+				19C747272AF2837C0076E85C /* Calendar.swift */,
+				19CF6F952B1216390062925C /* MovieViewController.swift */,
+				19C746FE2AF27D6C0076E85C /* Assets.xcassets */,
+				19C747002AF27D6C0076E85C /* LaunchScreen.storyboard */,
+				19C747032AF27D6C0076E85C /* Info.plist */,
+			);
+			path = MovieDiary;
+			sourceTree = "<group>";
+		};
+		19C7470B2AF27D6C0076E85C /* MovieDiaryTests */ = {
+			isa = PBXGroup;
+			children = (
+				19C7470C2AF27D6C0076E85C /* MovieDiaryTests.swift */,
+			);
+			path = MovieDiaryTests;
+			sourceTree = "<group>";
+		};
+		19C747152AF27D6C0076E85C /* MovieDiaryUITests */ = {
+			isa = PBXGroup;
+			children = (
+				19C747162AF27D6C0076E85C /* MovieDiaryUITests.swift */,
+				19C747182AF27D6C0076E85C /* MovieDiaryUITestsLaunchTests.swift */,
+			);
+			path = MovieDiaryUITests;
+			sourceTree = "<group>";
+		};
+		7333F0002B1CBCE000A2815F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				7333F0012B1CBCEA00A2815F /* MovieDiary.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		7333F0032B1CBFB500A2815F /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				7333F0042B1CBFD000A2815F /* CustomCells */,
+				19C746F92AF27D6B0076E85C /* MovieDiaryViewController.swift */,
+			);
+			path = Profile;
+			sourceTree = "<group>";
+		};
+		7333F0042B1CBFD000A2815F /* CustomCells */ = {
+			isa = PBXGroup;
+			children = (
+				19FAFB9F2B1BB94E0086D9AA /* DiaryTableViewCell.swift */,
+				7333F0052B1CC00E00A2815F /* DiaryTableViewCell.xib */,
+			);
+			path = CustomCells;
+			sourceTree = "<group>";
+		};
+		82C83A409B0A471FEF3783C3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				64F6860B4835A4DB38DCEC48 /* Pods-MovieDiary.debug.xcconfig */,
+				8E922E42CD48207DCC66935F /* Pods-MovieDiary.release.xcconfig */,
+				D3E06E885FF5050340C6E164 /* Pods-MovieDiary-MovieDiaryUITests.debug.xcconfig */,
+				B8511A3D34BCA4EC31652163 /* Pods-MovieDiary-MovieDiaryUITests.release.xcconfig */,
+				437C6FAE6D1EA61F0CB56903 /* Pods-MovieDiaryTests.debug.xcconfig */,
+				67B1CF07AEBEDA3E022EC7E7 /* Pods-MovieDiaryTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		B06F971C4D35203BD8DDC6B2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C2406911498C639FE5528989 /* Pods_MovieDiary.framework */,
+				66D816D1B4E4AD5C20F26011 /* Pods_MovieDiary_MovieDiaryUITests.framework */,
+				300302BF65ABBE3867C7DB55 /* Pods_MovieDiaryTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		19C746F12AF27D6B0076E85C /* MovieDiary */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19C7471C2AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiary" */;
+			buildPhases = (
+				6C3D2F10E1260DEA95117B78 /* [CP] Check Pods Manifest.lock */,
+				19C746EE2AF27D6B0076E85C /* Sources */,
+				19C746EF2AF27D6B0076E85C /* Frameworks */,
+				19C746F02AF27D6B0076E85C /* Resources */,
+				0FC4CCCCA73E9D330A496BE8 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MovieDiary;
+			productName = MovieDiary;
+			productReference = 19C746F22AF27D6B0076E85C /* MovieDiary.app */;
+			productType = "com.apple.product-type.application";
+		};
+		19C747072AF27D6C0076E85C /* MovieDiaryTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19C7471F2AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiaryTests" */;
+			buildPhases = (
+				7C2EF23043F3D3CC36A2716D /* [CP] Check Pods Manifest.lock */,
+				19C747042AF27D6C0076E85C /* Sources */,
+				19C747052AF27D6C0076E85C /* Frameworks */,
+				19C747062AF27D6C0076E85C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				19C7470A2AF27D6C0076E85C /* PBXTargetDependency */,
+			);
+			name = MovieDiaryTests;
+			productName = MovieDiaryTests;
+			productReference = 19C747082AF27D6C0076E85C /* MovieDiaryTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		19C747112AF27D6C0076E85C /* MovieDiaryUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19C747222AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiaryUITests" */;
+			buildPhases = (
+				F29EBF6970EA0A9205BF4AEB /* [CP] Check Pods Manifest.lock */,
+				19C7470E2AF27D6C0076E85C /* Sources */,
+				19C7470F2AF27D6C0076E85C /* Frameworks */,
+				19C747102AF27D6C0076E85C /* Resources */,
+				21628446F97E581391689B0C /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				19C747142AF27D6C0076E85C /* PBXTargetDependency */,
+			);
+			name = MovieDiaryUITests;
+			productName = MovieDiaryUITests;
+			productReference = 19C747122AF27D6C0076E85C /* MovieDiaryUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		19C746EA2AF27D6B0076E85C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					19C746F12AF27D6B0076E85C = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					19C747072AF27D6C0076E85C = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 19C746F12AF27D6B0076E85C;
+					};
+					19C747112AF27D6C0076E85C = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = 19C746F12AF27D6B0076E85C;
+					};
+				};
+			};
+			buildConfigurationList = 19C746ED2AF27D6B0076E85C /* Build configuration list for PBXProject "MovieDiary" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 19C746E92AF27D6B0076E85C;
+			productRefGroup = 19C746F32AF27D6B0076E85C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				19C746F12AF27D6B0076E85C /* MovieDiary */,
+				19C747072AF27D6C0076E85C /* MovieDiaryTests */,
+				19C747112AF27D6C0076E85C /* MovieDiaryUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		19C746F02AF27D6B0076E85C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1919B24E2B171CE400025FF9 /* jaws3.jpeg in Resources */,
+				1919B23E2B171CE400025FF9 /* tenthingsihateaboutyou.jpg in Resources */,
+				1919B2402B171CE400025FF9 /* captainmarvel.jpg in Resources */,
+				1919B2512B171CE400025FF9 /* jaws2.jpeg in Resources */,
+				7363695C2B1CD03000A783C7 /* DiaryTableViewCell.xib in Resources */,
+				1919B24F2B171CE400025FF9 /* jurassicworld1.jpeg in Resources */,
+				1919B27F2B171CE400025FF9 /* themeg2.jpg in Resources */,
+				1919B2702B171CE400025FF9 /* thor.jpg in Resources */,
+				1919B2612B171CE400025FF9 /* jaws1.jpeg in Resources */,
+				1919B2642B171CE400025FF9 /* captain2.jpeg in Resources */,
+				1919B24A2B171CE400025FF9 /* ironman.jpg in Resources */,
+				1919B2472B171CE400025FF9 /* jurassicpark3.jpeg in Resources */,
+				1919B2782B171CE400025FF9 /* antman2.jpg in Resources */,
+				1919B2692B171CE400025FF9 /* topgun.jpeg in Resources */,
+				1919B2592B171CE400025FF9 /* flipped.jpg in Resources */,
+				1919B26F2B171CE400025FF9 /* theshapeofwater.jpg in Resources */,
+				1919B2632B171CE400025FF9 /* harrypotter7part2.jpeg in Resources */,
+				1919B2492B171CE400025FF9 /* avengers1.jpg in Resources */,
+				1919B2462B171CE400025FF9 /* titanic.png in Resources */,
+				1919B2422B171CE400025FF9 /* infinitywar.jpg in Resources */,
+				1919B2742B171CE400025FF9 /* harrypotter2.jpeg in Resources */,
+				1919B2672B171CE400025FF9 /* pastlives.jpg in Resources */,
+				1919B25A2B171CE400025FF9 /* thepurge.jpeg in Resources */,
+				1919B2432B171CE400025FF9 /* worldwarz.jpg in Resources */,
+				1919B2622B171CE400025FF9 /* twilight3.jpeg in Resources */,
+				1919B2572B171CE400025FF9 /* theprincessdiaries.jpeg in Resources */,
+				1919B2412B171CE400025FF9 /* jaws4.jpeg in Resources */,
+				1919B2832B171CE400025FF9 /* ironman2.jpeg in Resources */,
+				1919B2822B171CE400025FF9 /* twilight4.jpeg in Resources */,
+				1919B26A2B171CE400025FF9 /* twilight2.jpeg in Resources */,
+				1919B2722B171CE400025FF9 /* parasite.jpeg in Resources */,
+				1919B2452B171CE400025FF9 /* harrypotter1.jpeg in Resources */,
+				1919B2732B171CE400025FF9 /* twilight5.jpeg in Resources */,
+				1919B25E2B171CE400025FF9 /* nottinghill.jpg in Resources */,
+				19C747022AF27D6C0076E85C /* LaunchScreen.storyboard in Resources */,
+				1919B2562B171CE400025FF9 /* harrypotter7.jpeg in Resources */,
+				1919B27D2B171CE400025FF9 /* twilight1.jpg in Resources */,
+				1919B27C2B171CE400025FF9 /* callmebyyourname.jpg in Resources */,
+				1919B2522B171CE400025FF9 /* homecoming.jpg in Resources */,
+				1919B2392B171CE400025FF9 /* oppenheimer.jpg in Resources */,
+				1919B25F2B171CE400025FF9 /* jurassicworld3.jpeg in Resources */,
+				1919B2382B171CE400025FF9 /* blackpanther.jpg in Resources */,
+				1919B2442B171CE400025FF9 /* barbie.jpeg in Resources */,
+				1919B27B2B171CE400025FF9 /* thematrix.jpg in Resources */,
+				1919B2762B171CE400025FF9 /* endgame.jpeg in Resources */,
+				1919B2602B171CE400025FF9 /* beautyandthebeast.jpg in Resources */,
+				1919B2372B171CE400025FF9 /* ageofultron.jpeg in Resources */,
+				1919B24B2B171CE400025FF9 /* captain.jpeg in Resources */,
+				19C746FF2AF27D6C0076E85C /* Assets.xcassets in Resources */,
+				1919B2582B171CE400025FF9 /* jurassicpark2.jpeg in Resources */,
+				1919B2842B171CE400025FF9 /* avatar.jpeg in Resources */,
+				1919B2752B171CE400025FF9 /* guardians1.jpg in Resources */,
+				1919B2342B171CE400025FF9 /* ironman3.jpg in Resources */,
+				19C746FD2AF27D6B0076E85C /* Main.storyboard in Resources */,
+				1919B23A2B171CE400025FF9 /* mebeforeyou.jpg in Resources */,
+				1919B23F2B171CE400025FF9 /* farfromhome.jpeg in Resources */,
+				1919B2502B171CE400025FF9 /* thenun2.jpg in Resources */,
+				1919B25D2B171CE400025FF9 /* meangirls.jpg in Resources */,
+				1919B24D2B171CE400025FF9 /* theconjuring2.jpeg in Resources */,
+				1919B23D2B171CE400025FF9 /* themeg.jpg in Resources */,
+				1919B2662B171CE400025FF9 /* harrypotter4.jpeg in Resources */,
+				1919B2802B171CE400025FF9 /* forrestgump.jpg in Resources */,
+				1919B25C2B171CE400025FF9 /* jurassicpark1.jpeg in Resources */,
+				1919B26E2B171CE400025FF9 /* ragnarok.jpg in Resources */,
+				1919B2682B171CE400025FF9 /* harrypotter5.jpeg in Resources */,
+				1919B2552B171CE400025FF9 /* theconjuring3.jpeg in Resources */,
+				1919B24C2B171CE400025FF9 /* harrypotter6.jpeg in Resources */,
+				1919B2792B171CE400025FF9 /* guardians2.jpg in Resources */,
+				1919B26C2B171CE400025FF9 /* civilwar.jpg in Resources */,
+				1919B27A2B171CE400025FF9 /* hulk.jpg in Resources */,
+				1919B23B2B171CE400025FF9 /* moonlight.jpg in Resources */,
+				1919B2812B171CE400025FF9 /* harrypotter3.jpeg in Resources */,
+				1919B2712B171CE400025FF9 /* doctorstrange.jpg in Resources */,
+				1919B2352B171CE400025FF9 /* thenun.jpg in Resources */,
+				7333F00C2B1CCF6D00A2815F /* moviedatabse.db in Resources */,
+				1919B27E2B171CE400025FF9 /* castaway.jpg in Resources */,
+				1919B25B2B171CE400025FF9 /* abouttime.jpg in Resources */,
+				1919B2652B171CE400025FF9 /* astarisborn.jpg in Resources */,
+				1919B26D2B171CE400025FF9 /* jurassicworld2.jpeg in Resources */,
+				1919B2542B171CE400025FF9 /* theconjuring1.jpg in Resources */,
+				1919B23C2B171CE400025FF9 /* topgunmaverick.jpg in Resources */,
+				1919B2362B171CE400025FF9 /* antman.jpg in Resources */,
+				1919B2482B171CE400025FF9 /* greenbook.jpeg in Resources */,
+				1919B2772B171CE400025FF9 /* jurassic.jpeg in Resources */,
+				1919B2532B171CE400025FF9 /* nowayhome.jpg in Resources */,
+				1919B26B2B171CE400025FF9 /* thordarkworld.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C747062AF27D6C0076E85C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C747102AF27D6C0076E85C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0FC4CCCCA73E9D330A496BE8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MovieDiary/Pods-MovieDiary-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MovieDiary/Pods-MovieDiary-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MovieDiary/Pods-MovieDiary-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		21628446F97E581391689B0C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MovieDiary-MovieDiaryUITests/Pods-MovieDiary-MovieDiaryUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MovieDiary-MovieDiaryUITests/Pods-MovieDiary-MovieDiaryUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MovieDiary-MovieDiaryUITests/Pods-MovieDiary-MovieDiaryUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6C3D2F10E1260DEA95117B78 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MovieDiary-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7C2EF23043F3D3CC36A2716D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MovieDiaryTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F29EBF6970EA0A9205BF4AEB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MovieDiary-MovieDiaryUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		19C746EE2AF27D6B0076E85C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19C746FA2AF27D6B0076E85C /* MovieDiaryViewController.swift in Sources */,
+				19FAFBA02B1BB94E0086D9AA /* DiaryTableViewCell.swift in Sources */,
+				19CF6F962B1216390062925C /* MovieViewController.swift in Sources */,
+				195262512AF41873000F7DE1 /* testApp.swift in Sources */,
+				19C746F62AF27D6B0076E85C /* AppDelegate.swift in Sources */,
+				19FAFB9C2B1A11290086D9AA /* Diary.swift in Sources */,
+				7333F0022B1CBCEA00A2815F /* MovieDiary.swift in Sources */,
+				7333EFFF2B1CBC7F00A2815F /* DatabaseManager.swift in Sources */,
+				19C747262AF283590076E85C /* Home.swift in Sources */,
+				19CF6F942B1216050062925C /* MovieCollectionViewCell.swift in Sources */,
+				19C746F82AF27D6B0076E85C /* SceneDelegate.swift in Sources */,
+				19EF34F32B16793D003E88AC /* RatingViewController.swift in Sources */,
+				19C747282AF2837C0076E85C /* Calendar.swift in Sources */,
+				1919B2912B199BAC00025FF9 /* Movie.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C747042AF27D6C0076E85C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19C7470D2AF27D6C0076E85C /* MovieDiaryTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19C7470E2AF27D6C0076E85C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19C747172AF27D6C0076E85C /* MovieDiaryUITests.swift in Sources */,
+				19C747192AF27D6C0076E85C /* MovieDiaryUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		19C7470A2AF27D6C0076E85C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 19C746F12AF27D6B0076E85C /* MovieDiary */;
+			targetProxy = 19C747092AF27D6C0076E85C /* PBXContainerItemProxy */;
+		};
+		19C747142AF27D6C0076E85C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 19C746F12AF27D6B0076E85C /* MovieDiary */;
+			targetProxy = 19C747132AF27D6C0076E85C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		19C746FB2AF27D6B0076E85C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19C746FC2AF27D6B0076E85C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		19C747002AF27D6C0076E85C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				19C747012AF27D6C0076E85C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		19C7471A2AF27D6C0076E85C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		19C7471B2AF27D6C0076E85C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		19C7471D2AF27D6C0076E85C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 64F6860B4835A4DB38DCEC48 /* Pods-MovieDiary.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MovieDiary/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiary;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		19C7471E2AF27D6C0076E85C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E922E42CD48207DCC66935F /* Pods-MovieDiary.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MovieDiary/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiary;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		19C747202AF27D6C0076E85C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 437C6FAE6D1EA61F0CB56903 /* Pods-MovieDiaryTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiaryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieDiary.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MovieDiary";
+			};
+			name = Debug;
+		};
+		19C747212AF27D6C0076E85C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67B1CF07AEBEDA3E022EC7E7 /* Pods-MovieDiaryTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiaryTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MovieDiary.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MovieDiary";
+			};
+			name = Release;
+		};
+		19C747232AF27D6C0076E85C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D3E06E885FF5050340C6E164 /* Pods-MovieDiary-MovieDiaryUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiaryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MovieDiary;
+			};
+			name = Debug;
+		};
+		19C747242AF27D6C0076E85C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B8511A3D34BCA4EC31652163 /* Pods-MovieDiary-MovieDiaryUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = swift.MovieDiaryUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MovieDiary;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		19C746ED2AF27D6B0076E85C /* Build configuration list for PBXProject "MovieDiary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19C7471A2AF27D6C0076E85C /* Debug */,
+				19C7471B2AF27D6C0076E85C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19C7471C2AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiary" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19C7471D2AF27D6C0076E85C /* Debug */,
+				19C7471E2AF27D6C0076E85C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19C7471F2AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiaryTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19C747202AF27D6C0076E85C /* Debug */,
+				19C747212AF27D6C0076E85C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19C747222AF27D6C0076E85C /* Build configuration list for PBXNativeTarget "MovieDiaryUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19C747232AF27D6C0076E85C /* Debug */,
+				19C747242AF27D6C0076E85C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 19C746EA2AF27D6B0076E85C /* Project object */;
+}
