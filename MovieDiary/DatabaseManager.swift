@@ -31,7 +31,7 @@ class DatabaseManager {
             
             try dbQueue.inDatabase { db in
                 let rows = try Row.fetchCursor(db, sql: "SELECT * FROM diary")
-                while let row = try rows.next() { 
+                while let row = try rows.next() {
                     movieList.append(MovieDiary(diaryTitle: row["diaryTitle"], diaryImg: row["diaryImg"], diaryMovieYear: row["diaryMvYear"], diaryNote: row["diaryNote"], diaryDate: row["diaryDate"]))
                 }
             }
